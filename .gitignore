@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Video Project Specifics
+output/
+codec_trace.txt
+sr_weights.pt
+*.mp4
+*.bin
+*.pt
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
